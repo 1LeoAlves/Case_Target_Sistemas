@@ -1,0 +1,15 @@
+C:\Users\leona\source\repos\Case_Target_System\Case_Target_System\bin\Debug\net6.0\Case_Target_System.exe
+C:\Users\leona\source\repos\Case_Target_System\Case_Target_System\bin\Debug\net6.0\dados.json
+C:\Users\leona\source\repos\Case_Target_System\Case_Target_System\bin\Debug\net6.0\Case_Target_System.deps.json
+C:\Users\leona\source\repos\Case_Target_System\Case_Target_System\bin\Debug\net6.0\Case_Target_System.runtimeconfig.json
+C:\Users\leona\source\repos\Case_Target_System\Case_Target_System\bin\Debug\net6.0\Case_Target_System.dll
+C:\Users\leona\source\repos\Case_Target_System\Case_Target_System\bin\Debug\net6.0\Case_Target_System.pdb
+C:\Users\leona\source\repos\Case_Target_System\Case_Target_System\obj\Debug\net6.0\Case_Target_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\repos\Case_Target_System\Case_Target_System\obj\Debug\net6.0\Case_Target_System.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\Case_Target_System\Case_Target_System\obj\Debug\net6.0\Case_Target_System.AssemblyInfo.cs
+C:\Users\leona\source\repos\Case_Target_System\Case_Target_System\obj\Debug\net6.0\Case_Target_System.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\Case_Target_System\Case_Target_System\obj\Debug\net6.0\Case_Target_System.dll
+C:\Users\leona\source\repos\Case_Target_System\Case_Target_System\obj\Debug\net6.0\refint\Case_Target_System.dll
+C:\Users\leona\source\repos\Case_Target_System\Case_Target_System\obj\Debug\net6.0\Case_Target_System.pdb
+C:\Users\leona\source\repos\Case_Target_System\Case_Target_System\obj\Debug\net6.0\Case_Target_System.genruntimeconfig.cache
+C:\Users\leona\source\repos\Case_Target_System\Case_Target_System\obj\Debug\net6.0\ref\Case_Target_System.dll
